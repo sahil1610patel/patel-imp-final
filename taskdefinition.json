@@ -5,7 +5,7 @@
   "containerDefinitions": [
     {
       "name": "wildrydes-webapp",
-      "image": "<IMAGE_NAME>",
+      "image": "975050105141.dkr.ecr.ca-central-1.amazonaws.com/wildrydes-app-repo",
       "essential": true,
       "portMappings": [
         {
